@@ -1,0 +1,2 @@
+# salutman.js
+salutman
